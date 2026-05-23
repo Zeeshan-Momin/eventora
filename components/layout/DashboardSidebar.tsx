@@ -26,8 +26,8 @@ const navItems = [
 ];
 
 const bottomItems = [
-  { label: "Settings", href: "#settings", icon: Settings },
-  { label: "Notifications", href: "#notifications", icon: Bell },
+  { label: "Settings", href: "#", icon: Settings },
+  { label: "Notifications", href: "#", icon: Bell },
 ];
 
 interface SidebarProps {
